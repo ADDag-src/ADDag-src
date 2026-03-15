@@ -2,10 +2,10 @@
 
 ## I'm ADDag, a developer based in the United Kingdom.
 
-I like building practical tools, experimenting with ideas, and keeping my projects clean and intentional.  
-Lately I’ve been building desktop apps with Python and PySide6, keeping the UI clean and making sure the apps are easy to use and do what they’re meant to.
+Focused on building practical tools, experimenting with ideas, and keeping my projects clean and intentional.  
+Lately I’ve been building desktop apps with Python and PySide6, keeping the UI intuitive, and aligned with the app’s core purpose.
 
-I enjoy trying new things in my projects, especially when it means learning something new, overcoming challenges, and improving with each build. I’m also interested in working with data and finding ways to make workflows more efficient.
+I like experimenting in my projects, learning new skills, tackling tricky problems, and getting a little better with each build. I’m also drawn to anything that involves data and finding cleaner, more efficient ways to handle everyday workflows.
 
 ## Current Tech Stack
 - **Python** - main language for most of my projects  
@@ -14,7 +14,10 @@ I enjoy trying new things in my projects, especially when it means learning some
 - **HTML/CSS** - styling and layout for PySide6 widgets
 
 ## Interests
-I’m interested in Linux, cybersecurity, and IT in general. I like understanding how things work.
+- Linux, open‑source software, and the community that builds and shapes it
+- Cybersecurity, networking, and IT as a whole, I like understanding the tech we rely on every day
+- Gaming and game development, especially the smaller more creative indie side of things
+- I enjoy optimising systems and workflows, and it’s a big part of how I approach things
 
 ## Featured Project
 **GIF Maker** - A desktop app for creating GIFs and WebM/MP4 clips with a clean UI and a focus on being simple yet versatile.  
