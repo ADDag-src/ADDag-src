@@ -2,8 +2,7 @@
 
 ### I'm ADDag, a developer based in the United Kingdom.
 
-I'm focused on building practical tools, experimenting with ideas, and keeping my projects clean and intentional.  
-Lately I've been building desktop apps with Python and PySide6, keeping the UI simple, clear and shaped around what each app is designed to do.
+I'm focused on building practical tools, experimenting with ideas, and keeping my projects clean and intentional. Lately I've been building desktop apps with Python and PySide6, keeping the UI simple, clear and shaped around what each app is designed to do.
 
 I tend to approach things with a focus on structure and optimisation. That comes through in how I plan projects, organise my work, and break down problems, and it's the same mindset that pushes me to learn new skills and improve with each build. 
 
