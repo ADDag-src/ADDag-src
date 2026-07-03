@@ -9,10 +9,18 @@ I tend to approach things with a focus on structure and optimisation. That comes
 Above everything else, I care about writing readable code, keeping things clear, consistent, and easy to work with.
 
 ## Current Tech Stack
-- **Python** - main language for most of my projects  
-- **PySide6** - used for the actual UI desktop development  
-- **SQL** - mostly used for backend data storage in my apps  
-- **HTML/CSS** - styling and layout for PySide6 widgets
+### Programming languages
+- **Python** - main language across most of my projects  
+- **C#** - used for building web tools and Blazor applications
+
+### Frameworks and UI
+- **PySide6** - desktop application development  
+- **Blazor** - web application development
+
+### Other
+- **SQL** - mostly used for backend data storage in my apps   
+- **HTML/CSS** - styling and layout for both PySide6 widgets and Blazor
+
 
 ## Interests
 - Linux, open‑source software, and the community that builds and shapes it
